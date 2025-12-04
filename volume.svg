@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" aria-hidden="true" role="img">
+  <title>Volume</title>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- speaker -->
+    <path d="M4 9v6h4l5 4V5L8 9H4z"/>
+    <!-- waves -->
+    <path d="M16.5 8.5c1.2 1.2 1.2 3.1 0 4.3"/>
+    <path d="M18.5 6.5c2.2 2.2 2.2 5.8 0 8"/>
+  </g>
+</svg>
